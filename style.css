@@ -1,0 +1,30 @@
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+body{
+    font-size: 1.6rem;
+    line-height: 1.8;
+}
+
+
+.seccion{
+    padding: 0 5rem; 
+}
+
+input{
+    display: block;
+    width: 100%;
+}
+
+#input,#boton-txt{
+    margin-bottom: 2rem;
+}
+
+#input,#boton-txt,#boton-Alicuotas-txt{
+    padding: 2rem 0;
+}
